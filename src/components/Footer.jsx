@@ -99,24 +99,24 @@ export default function Footer() {
               . All Rights Reserved
             </div>
             <div className='credits'>
-              Designed by <a href='#'>MasterDeg</a>
+              Designed by <a href='#'>Masterdev.uz</a>
             </div>
           </div>
           <div className='social-links text-center text-md-end pt-3 pt-md-0'>
             <a href='#' className='twitter'>
-              <i className='bx fa fa-twitter'></i>
+              <i className=' fa fa-twitter'></i>
             </a>
             <a href='#' className='facebook'>
-              <i className='bx fa fa-facebook'></i>
+              <i className=' fa fa-facebook'></i>
             </a>
             <a href='#' className='instagram'>
-              <i className='bx fa fa-instagram'></i>
+              <i className=' fa fa-instagram'></i>
             </a>
             <a href='#' className='google-plus'>
-              <i className='bx fa fa-skype'></i>
+              <i className=' fa fa-skype'></i>
             </a>
             <a href='#' className='linkedin'>
-              <i className='bx fa fa-linkedin'></i>
+              <i className=' fa fa-linkedin'></i>
             </a>
           </div>
         </div>

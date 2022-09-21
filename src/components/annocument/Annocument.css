@@ -5,15 +5,7 @@
   background: #f6f9fc;
   padding: 50px 0;
 }
-/* .grid2 {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  
-} */
-/* .container {
-  max-width: 90%;
-  margin: auto;
-} */
+
 .wrapper .product {
   padding: 30px;
 }
